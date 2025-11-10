@@ -1,6 +1,6 @@
 
 
-# 🧠 Dechecker – AI Checker Free & Online
+# 🧠 AI Checker Free & Online - Dechecker
 
 **Dechecker's AI Checker and Detector Tool**
 
