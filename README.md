@@ -4,6 +4,10 @@
 
 **Dechecker's AI Checker and Detector Tool**
 
+## 🌐 Language Switch / 语言切换
+
+- [English](README.md) | [中文](README.zh.md)
+
 ---
 
 ## 🔍 Overview
