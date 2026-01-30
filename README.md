@@ -6,7 +6,7 @@
 
 ## 🌐 Language Switch / 语言切换
 
-- [English](README.md) | [中文](README.zh.md)
+- [English](README.md) | [中文](README.zh-CN.md)
 
 ---
 
